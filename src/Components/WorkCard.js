@@ -9,7 +9,7 @@ const WorkCard = () => {
         <h1 className="project-heading">Projects</h1>
         <div className="project-container">
             <div className="project-card">
-                <img src="https://tse2.mm.bing.net/th?id=OIP.9hcYP50JdeToVNfyGHfoPAHaE7&pid=Api&P=0&h=180" alt="image"/>
+                <img src="https://tse2.mm.bing.net/th?id=OIP.qew2BFFrSS03Zlz1dNPKqwHaD8&pid=Api&P=0" alt="image"/>
                 <h2 className="project-title">Cab Company</h2><br></br>
                 <div className="pro-details">
                   <p>This is a cab company project in which sql and some cloud concepts are used</p><br></br><br></br>

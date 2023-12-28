@@ -2,7 +2,7 @@
 
   "name": "my-app",
 
-  "homepage": "https://swaralikakade.github.io",
+  "homepage": "https://swaralikakade.github.io/my-app",
 
   "version": "0.1.0",
 
@@ -35,7 +35,7 @@
   "scripts": {
 
     "predeploy": "npm run build",
-    
+
     "deploy": "gh-pages -d build",
 
     "start": "react-scripts start",
